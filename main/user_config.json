@@ -1,0 +1,12 @@
+{
+    "is_configured": true,
+    "default": {
+        "helper_names": [
+            "бота",
+            "боту",
+            "боте",
+            "боти"
+        ],
+        "localization": "ru-RU"
+    }
+}
